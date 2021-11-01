@@ -1,0 +1,13 @@
+body {
+  background-image: url(img/classy_fabric.png);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  /*background-position: 100% 10% ;*/
+}
+
+p {
+  color: #ffffff;
+}
+
